@@ -1,3 +1,4 @@
+![inopix](https://user-images.githubusercontent.com/47444867/114375011-4019fa80-9b52-11eb-86b3-1769f21105f0.png)
 # Sistema de Monitoramento Digital de Ativos PI
 # Desenvolvimento em PHP 7 - Bootstrap, PDO & MySQL
 
@@ -23,3 +24,7 @@ $usuario = 'root'
 $senha = ''
 
 ```
+![hacktron](https://user-images.githubusercontent.com/47444867/114373606-c6cdd800-9b50-11eb-8785-a6940712e896.png)
+![inpi](https://user-images.githubusercontent.com/47444867/114373613-c7ff0500-9b50-11eb-92c2-6fb7da4e84fa.png)
+![cncp](https://user-images.githubusercontent.com/47444867/114373820-fbda2a80-9b50-11eb-8eb1-cb22956a0bf7.png)
+
