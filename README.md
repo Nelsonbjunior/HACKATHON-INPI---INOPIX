@@ -1,5 +1,5 @@
-#      Sistema de Monitoramento Digital de Ativos PI
-# Protótipo Desenvolvimento em PHP 7 - Bootstrap, PDO & MySQL
+# Sistema de Monitoramento Digital de Ativos PI
+# Desenvolvimento em PHP 7 - Bootstrap, PDO & MySQL
 
 Desenvolvimento de um Buscador simples de Marcas e Patentes utilizando o acesso a banco de dados com o MySQL e linguagem PHP.
 
